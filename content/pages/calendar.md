@@ -4,32 +4,361 @@ title: Calendar
 uid: 96748781-ee5f-e782-b2b6-7f09e3ffc94e
 ---
 
-| Lec # | Topics | Key DATES |
-| --- | --- | --- |
-| 1 | From Spikes to Rates |  |
-| 2 | Perceptrons: Simple and Multilayer |  |
-| 3 | Perceptrons as Models of Vision |  |
-| 4 | Linear Networks | Problem set 1 due |
-| 5 | Retina |  |
-| 6 | Lateral Inhibition and Feature Selectivity | Problem set 2 due |
-| 7 | Objectives and Optimization | Problem set 3 due |
-| 8 | Hybrid Analog-Digital Computation  {{< br >}}  {{< br >}}Ring Network |  |
-| 9 | Constraint Satisfaction  {{< br >}}  {{< br >}}Stereopsis | Problem set 4 due |
-| 10 | Bidirectional Perception |  |
-| 11 | Signal Reconstruction | Problem set 5 due |
-| 12 | Hamiltonian Dynamics |  |
-|  | Midterm |  |
-| 13 | Antisymmetric Networks |  |
-| 14 | Excitatory-Inhibitory Networks  {{< br >}}  {{< br >}}Learning |  |
-| 15 | Associative Memory |  |
-| 16 | Models of Delay Activity  {{< br >}}  {{< br >}}Integrators | Problem set 6 due one day after Lec #16 |
-| 17 | Multistability  {{< br >}}  {{< br >}}Clustering |  |
-| 18 | VQ  {{< br >}}  {{< br >}}PCA | Problem set 7 due |
-| 19 | More PCA  {{< br >}}  {{< br >}}Delta Rule | Problem set 8 due |
-| 20 | Conditioning  {{< br >}}  {{< br >}}Backpropagation |  |
-| 21 | More Backpropagation | Problem set 9 due |
-| 22 | Stochastic Gradient Descent |  |
-| 23 | Reinforcement Learning | Problem set 10 due |
-| 24 | More Reinforcement Learning |  |
-| 25 | Final Review |  |
-|  | Final Exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Key DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+From Spikes to Rates
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Perceptrons: Simple and Multilayer
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Perceptrons as Models of Vision
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Linear Networks
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Retina
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Lateral Inhibition and Feature Selectivity
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Objectives and Optimization
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Hybrid Analog-Digital Computation  
+  
+Ring Network
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Constraint Satisfaction  
+  
+Stereopsis
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Bidirectional Perception
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Signal Reconstruction
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hamiltonian Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Antisymmetric Networks
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Excitatory-Inhibitory Networks  
+  
+Learning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Associative Memory
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Models of Delay Activity  
+  
+Integrators
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due one day after Lec #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Multistability  
+  
+Clustering
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+VQ  
+  
+PCA
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+More PCA  
+  
+Delta Rule
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Conditioning  
+  
+Backpropagation
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+More Backpropagation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Stochastic Gradient Descent
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Reinforcement Learning
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+More Reinforcement Learning
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
