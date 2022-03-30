@@ -4,6 +4,7 @@ description: This resource includes special .mat files to suppliment the content
   in problem set 8.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-641j-introduction-to-neural-networks-spring-2005/f5af0e96c22e57b71e85610fef6a767e_kmeans.mat
 file_type: application/octet-stream
+parent_uid: a45d878e-0189-d0fd-46e1-dbf8ad68879f
 resourcetype: Other
 title: kmeans.mat
 uid: f5af0e96-c22e-57b7-1e85-610fef6a767e

@@ -4,6 +4,7 @@ description: This resource includes information on supervised learning problem, 
   rule, delta rule as gradient descent, and Hebb rule.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-641j-introduction-to-neural-networks-spring-2005/3a747021641360929b6131a373adc9c2_lec19_delta.pdf
 file_type: application/pdf
+parent_uid: 195f5963-f3f6-5c0d-977b-8d26c4481637
 resourcetype: Document
 title: lec19_delta.pdf
 uid: 3a747021-6413-6092-9b61-31a373adc9c2
